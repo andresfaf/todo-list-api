@@ -1,0 +1,16 @@
+C:\LISTA DE TAREAS\ListaTareas\ListaTareas.Infrastructure\bin\Debug\netcoreapp3.1\ListaTareas.Infrastructure.deps.json
+C:\LISTA DE TAREAS\ListaTareas\ListaTareas.Infrastructure\bin\Debug\netcoreapp3.1\ListaTareas.Infrastructure.runtimeconfig.json
+C:\LISTA DE TAREAS\ListaTareas\ListaTareas.Infrastructure\bin\Debug\netcoreapp3.1\ListaTareas.Infrastructure.runtimeconfig.dev.json
+C:\LISTA DE TAREAS\ListaTareas\ListaTareas.Infrastructure\bin\Debug\netcoreapp3.1\ListaTareas.Infrastructure.dll
+C:\LISTA DE TAREAS\ListaTareas\ListaTareas.Infrastructure\bin\Debug\netcoreapp3.1\ListaTareas.Infrastructure.pdb
+C:\LISTA DE TAREAS\ListaTareas\ListaTareas.Infrastructure\bin\Debug\netcoreapp3.1\ListaTareas.Core.dll
+C:\LISTA DE TAREAS\ListaTareas\ListaTareas.Infrastructure\bin\Debug\netcoreapp3.1\ListaTareas.Core.pdb
+C:\LISTA DE TAREAS\ListaTareas\ListaTareas.Infrastructure\obj\Debug\netcoreapp3.1\ListaTareas.Infrastructure.csproj.AssemblyReference.cache
+C:\LISTA DE TAREAS\ListaTareas\ListaTareas.Infrastructure\obj\Debug\netcoreapp3.1\ListaTareas.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\LISTA DE TAREAS\ListaTareas\ListaTareas.Infrastructure\obj\Debug\netcoreapp3.1\ListaTareas.Infrastructure.AssemblyInfoInputs.cache
+C:\LISTA DE TAREAS\ListaTareas\ListaTareas.Infrastructure\obj\Debug\netcoreapp3.1\ListaTareas.Infrastructure.AssemblyInfo.cs
+C:\LISTA DE TAREAS\ListaTareas\ListaTareas.Infrastructure\obj\Debug\netcoreapp3.1\ListaTareas.Infrastructure.csproj.CoreCompileInputs.cache
+C:\LISTA DE TAREAS\ListaTareas\ListaTareas.Infrastructure\obj\Debug\netcoreapp3.1\ListaTareas.Infrastructure.csproj.CopyComplete
+C:\LISTA DE TAREAS\ListaTareas\ListaTareas.Infrastructure\obj\Debug\netcoreapp3.1\ListaTareas.Infrastructure.dll
+C:\LISTA DE TAREAS\ListaTareas\ListaTareas.Infrastructure\obj\Debug\netcoreapp3.1\ListaTareas.Infrastructure.pdb
+C:\LISTA DE TAREAS\ListaTareas\ListaTareas.Infrastructure\obj\Debug\netcoreapp3.1\ListaTareas.Infrastructure.genruntimeconfig.cache

@@ -1,0 +1,9 @@
+C:\LISTA DE TAREAS\ListaTareas\ListaTareas.Core\bin\Debug\netcoreapp3.1\ListaTareas.Core.deps.json
+C:\LISTA DE TAREAS\ListaTareas\ListaTareas.Core\bin\Debug\netcoreapp3.1\ListaTareas.Core.dll
+C:\LISTA DE TAREAS\ListaTareas\ListaTareas.Core\bin\Debug\netcoreapp3.1\ListaTareas.Core.pdb
+C:\LISTA DE TAREAS\ListaTareas\ListaTareas.Core\obj\Debug\netcoreapp3.1\ListaTareas.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\LISTA DE TAREAS\ListaTareas\ListaTareas.Core\obj\Debug\netcoreapp3.1\ListaTareas.Core.AssemblyInfoInputs.cache
+C:\LISTA DE TAREAS\ListaTareas\ListaTareas.Core\obj\Debug\netcoreapp3.1\ListaTareas.Core.AssemblyInfo.cs
+C:\LISTA DE TAREAS\ListaTareas\ListaTareas.Core\obj\Debug\netcoreapp3.1\ListaTareas.Core.csproj.CoreCompileInputs.cache
+C:\LISTA DE TAREAS\ListaTareas\ListaTareas.Core\obj\Debug\netcoreapp3.1\ListaTareas.Core.dll
+C:\LISTA DE TAREAS\ListaTareas\ListaTareas.Core\obj\Debug\netcoreapp3.1\ListaTareas.Core.pdb
